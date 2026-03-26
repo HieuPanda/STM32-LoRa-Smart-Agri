@@ -34,7 +34,7 @@ Actuators: 5V/12V Relay Modules for Pump and Fan
 SensorPacket: Custom packed struct for efficient data serialization.
 
 🔧 Installation & Usage
-Clone the repository: git clone https://github.com/your-username/STM32-LoRa-Smart-Agri.git
+Clone the repository: git clone https://github.com/HieuPanda/STM32-LoRa-Smart-Agri.git
 
 Open the project in STM32CubeIDE.
 

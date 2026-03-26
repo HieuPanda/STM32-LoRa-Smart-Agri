@@ -1,0 +1,23 @@
+# Build files (Rác sinh ra khi biên dịch)
+Debug/
+Release/
+bin/
+obj/
+*.o
+*.d
+*.elf
+*.list
+*.map
+*.hex
+*.bin
+*.exe
+
+# IDE files (Cấu hình riêng của máy ông)
+.settings/
+.project
+.cproject
+*.launch
+
+# Backup files
+*.bak
+*.tmp
